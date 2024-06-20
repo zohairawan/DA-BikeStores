@@ -61,6 +61,203 @@ group by
 order by
 	  revenue desc
 ```
+|city|state|revenue|
+|----|-----|-------|
+|Mount Vernon|test|
+|Ballston Spa|
+|San Angelo|
+|Baldwinsville|
+|Howard Beach|
+|Orchard Park|
+|Canyon Country|
+|Monroe|
+|Houston|
+|Astoria|
+|Central Islip|
+|Smithtown|
+|Harlingen|
+|Amityville|
+|Troy|
+|Port Washington|
+|Palos Verdes Peninsula|
+|Webster|
+|Merrick|
+|Ossining|
+|South El Monte|
+|Uniondale|
+|San Jose|
+|Huntington Station|
+|Canandaigua|
+|Liverpool|
+|Floral Park|
+|Scarsdale|
+|San Lorenzo|
+|North Tonawanda|
+|East Elmhurst|
+|Duarte|
+|Bay Shore|
+|Campbell|
+|Garland|
+|Franklin Square|
+|Longview|
+|Santa Clara|
+|Forney|
+|New York|
+|New Rochelle|
+|Spring Valley|
+|Garden City|
+|Ronkonkoma|
+|Hempstead|
+|East Northport|
+|Upland|
+|Maspeth|
+|Sunnyside|
+|Bellmore|
+|Jamaica|
+|Baldwin|
+|Fairport|
+|Newburgh|
+|Encino|
+|Euless|
+|Plainview|
+|Sacramento|
+|Utica|
+|Glendora|
+|Long Beach|
+|Corpus Christi|
+|Coachella|
+|San Carlos|
+|Richmond Hill|
+|Monsey|
+|Port Jefferson Station|
+|Redondo Beach|
+|Patchogue|
+|Ithaca|
+|Desoto|
+|Sugar Land|
+|Oxnard|
+|South Ozone Park|
+|Lancaster|
+|Anaheim|
+|New Windsor|
+|Elmhurst|
+|Apple Valley|
+|Whitestone|
+|Torrance|
+|Brentwood|
+|Wappingers Falls|
+|Kingston|
+|El Paso|
+|Banning|
+|Buffalo|
+|Woodhaven|
+|Plattsburgh|
+|Rome|
+|Oswego|
+|Woodside|
+|Victoria|
+|Jackson Heights|
+|Massapequa|
+|Brooklyn|
+|San Pablo|
+|Massapequa Park|
+|Rowlett|
+|Nanuet|
+|West Islip|
+|Vista|
+|Saratoga Springs|
+|Oakland|
+|Mahopac|
+|Pleasanton|
+|Bethpage|
+|Ridgecrest|
+|Depew|
+|Staten Island|
+|Lawndale|
+|Pittsford|
+|Schenectady|
+|Fullerton|
+|Hollis|
+|Richardson|
+|Niagara Falls|
+|Lockport|
+|Santa Monica|
+|Rockville Centre|
+|Oceanside|
+|Bayside|
+|New Hyde Park|
+|Oakland Gardens|
+|Port Chester|
+|San Diego|
+|Bronx|
+|Lindenhurst|
+|Santa Cruz|
+|Lake Jackson|
+|Carmel|
+|Los Banos|
+|Rocklin|
+|Fort Worth|
+|Atwater|
+|Rochester|
+|Valley Stream|
+|Shirley|
+|Centereach|
+|Jamestown|
+|Wantagh|
+|Hicksville|
+|Levittown|
+|West Babylon|
+|Queensbury|
+|Endicott|
+|Rosedale|
+|Farmingdale|
+|Flushing|
+|Hopewell Junction|
+|West Hempstead|
+|Fresno|
+|Amsterdam|
+|Syosset|
+|Pomona|
+|Poughkeepsie|
+|Hamburg|
+|Fresh Meadows|
+|Glen Cove|
+|Forest Hills|
+|New City|
+|Coram|
+|Helotes|
+|Yonkers|
+|East Meadow|
+|Ozone Park|
+|South Richmond Hill|
+|Huntington|
+|Ontario|
+|Albany|
+|Holbrook|
+|Saint Albans|
+|Selden|
+|Deer Park|
+|Corona|
+|Middle Village|
+|Freeport|
+|Bakersfield|
+|Amarillo|
+|Rego Park|
+|Elmont|
+|Los Angeles|
+|Auburn|
+|Yorktown Heights|
+|Commack|
+|Clifton Park|
+|Yuba City|
+|Mcallen|
+|Mountain View|
+|San Antonio|
+|Copperas Cove|
+|Far Rockaway|
+|Springfield Gardens|
+|Westbury|
+|Tonawanda|
 <br>
 <br>
 
