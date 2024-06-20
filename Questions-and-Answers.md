@@ -1,3 +1,5 @@
+# Questions and Answers
+
 0. Consolidate all the necessary data
 ```sql
 go
@@ -44,7 +46,75 @@ create view dbo.vResultSet as
 go
 ```
 1. Revenue per region?
+```sql
+select
+	  city
+	, state
+	, sum(revenue) as revenue
+from vResultSet
+group by
+	  city
+	, state
+order by
+	  revenue desc
+```
 2. Revenue per store?
+```sql
+select
+	  state
+	, store_name
+	, sum(revenue) as revenue
+from vResultSet
+group by
+	    state
+	  , store_name
+order by
+	  revenue desc
+```
 3. Revenue per product category?
+```sql
+select
+	  category_name
+	, sum(revenue) as revenue
+from vResultSet
+group by
+	    category_name
+order by
+	  revenue desc
+```
 4. Revenue per brand?
-5. A list of top customers / sales rep?
+```sql
+select
+	  brand_name
+	, sum(revenue) as revenue
+from vResultSet
+group by
+	    brand_name
+order by
+	  revenue desc
+```
+5. A list of top customers?
+```sql
+select
+	  customers
+	, sum(revenue) as revenue
+	, sum(total_units) total_units_bought
+from vResultSet
+group by
+	  customers
+order by
+	  revenue desc
+```
+
+6. A list of top sales rep?
+```sql
+select
+	  sales_rep
+	, sum(revenue) as revenue
+	, sum(total_units) total_units_sold
+from vResultSet
+group by
+	  sales_rep
+order by
+	  revenue desc
+```
