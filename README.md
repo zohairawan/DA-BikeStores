@@ -19,7 +19,7 @@
 
 ### Datasets Used:
 * Both formats contain the same data
-    * [CSV] Format
+    * [[CSV]] Format
     * SQL Format
 
 ### Ask
