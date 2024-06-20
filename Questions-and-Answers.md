@@ -3,10 +3,8 @@
 0. Consolidate all the necessary data
 ```sql
 go
-if exists(select *
-			from INFORMATION_SCHEMA.VIEWS
-			where [TABLE_SCHEMA] = 'dbo' and [TABLE_NAME] = 'vResultSet')
-			drop view dbo.vResultSet
+if exists(select * from INFORMATION_SCHEMA.VIEWS where [TABLE_SCHEMA] = 'dbo' and [TABLE_NAME] = 'vResultSet')
+drop view dbo.vResultSet
 go
 
 go
