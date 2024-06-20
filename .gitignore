@@ -1,2 +1,5 @@
 # Ignores the data source copy folder
 Data-Source-Copy/*
+
+# Ignores the sql solution scripts
+Solutions-SQL-Scripts/
