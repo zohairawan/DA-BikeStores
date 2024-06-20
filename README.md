@@ -24,11 +24,12 @@
 
 ### Ask
 * By asking questions that are Specific, Measurable, Action-Oriented, Relevant, and Time-bound we can answer the business task
-    * Revenue per region?
     * Revenue per store?
+    A list of top sales rep?
     * Revenue per product category?
     * Revenue per brand?
-    * A list of top customers / sales rep?
+    * Revenue per region?
+    * A list of top customers?
 
 ### Prepare
 * Collect and gather the relevant data
