@@ -1,4 +1,4 @@
-# BikeStore
+# BikeStores
 
 ### Tools Used:
 * Excel
@@ -27,6 +27,9 @@
 * Collect and gather the relevant data
 * Validate data integrity
     * Data Source: First-party open data
+* Understand table relationships
+    * ![screenshot](img/Database-Diagram.png)
+* Consolidate relevant data into one table
 
 ### Process
 * Clean the data
