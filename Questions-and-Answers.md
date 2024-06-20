@@ -320,7 +320,7 @@ order by
 	  revenue desc
 ```
 |brand_name|revenue|
-|---|---|---|
+|---|---|
 |Trek|5129381.61|
 |Electra|1344143.79|
 |Surly|1063135.82|
