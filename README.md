@@ -18,9 +18,9 @@
 * Gain insights into the various trends happening in the sales volume over the 2016 - 2018 period
 
 ### Datasets Used:
-* Both formats contain the same data
-    * [CSV](Data-Source/CSV/)
-    * [SQL](Data-Source/SQL/)
+* Both formats contain the same data, just pick whichever format you prefer to work in
+    * [CSV](Data-Source/CSV/) - Raw data
+    * [SQL](Data-Source/SQL/) - Raw data
 
 ### Ask
 * By asking questions that are Specific, Measurable, Action-Oriented, Relevant, and Time-bound we can answer the business task
@@ -46,7 +46,8 @@
     * Duplicate data
 
 ### Analyze
-* Interpret the results to gain data-driven insights
+* Analyze the data to solve the business task and gain data-driven insights
+[Solve the Business Task](Questions-and-Answers.md)
 
 ### Share
 * Data visualization for comprehensive and dynamic dashboard
