@@ -20,7 +20,7 @@
 ### Datasets Used:
 * Both formats contain the same data
     * [CSV](Data-Source/CSV/)
-    * [SQL](Data-Source-SQL/)
+    * [SQL](Data-Source/SQL/)
 
 ### Ask
 * By asking questions that are Specific, Measurable, Action-Oriented, Relevant, and Time-bound we can answer the business task
