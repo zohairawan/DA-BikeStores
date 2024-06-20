@@ -47,6 +47,7 @@ go
 ```
 <br>
 <br>
+
 1. Revenue per region?
 ```sql
 select
