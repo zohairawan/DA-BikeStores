@@ -3,6 +3,13 @@
 0. Consolidate all the necessary data
 ```sql
 go
+if exists(select *
+			from INFORMATION_SCHEMA.VIEWS
+			where [TABLE_SCHEMA] = 'dbo' and [TABLE_NAME] = 'vResultSet')
+			drop view dbo.vResultSet
+go
+
+go
 create view dbo.vResultSet as
 	select
 		  ord.order_id
