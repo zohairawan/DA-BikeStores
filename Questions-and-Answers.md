@@ -48,7 +48,103 @@ go
 <br>
 <br>
 
-1. Revenue per region?
+1. Revenue per store?
+```sql
+select
+	  state
+	, store_name
+	, sum(revenue) as revenue
+from vResultSet
+group by
+	    state
+	  , store_name
+order by
+	  revenue desc
+```
+|state|store_name|revenue|
+|---|---|---|
+|NY|Baldwin Bikes|5826242.21|
+|CA|Santa Cruz Bikes|1790145.91|
+|TX|Rowlett Bikes|962600.76|
+
+<br>
+<br>
+
+2. A list of top sales rep?
+```sql
+select
+	  sales_rep
+	, sum(revenue) as revenue
+	, sum(total_units) total_units_sold
+from vResultSet
+group by
+	  sales_rep
+order by
+	  revenue desc
+```
+|sales_rep|revenue|total_units_sold|
+|---|---|---|
+|Marcelene Boyer|2938888.73|2419
+|Venita Daniel|2887353.48|2360
+|Genna Serrano|952722.26|831
+|Mireya Copeland|837423.65|685
+|Kali Vargas|516695.17|412
+|Layla Terrell|445905.59|371
+
+<br>
+<br>
+
+3. Revenue per product category?
+```sql
+select
+	  category_name
+	, sum(revenue) as revenue
+from vResultSet
+group by
+	    category_name
+order by
+	  revenue desc
+```
+|category_name|revenue|
+|---|---|
+|Mountain Bikes|3030775.71|
+|Road Bikes|1852555.60|
+|Cruisers Bicycles|1109151.04|
+|Electric Bikes|1020236.85|
+|Cyclocross Bicycles|799874.60|
+|Comfort Bicycles|438506.87|
+|Children Bicycles|327888.21|
+
+<br>
+<br>
+
+4. Revenue per brand?
+```sql
+select
+	  brand_name
+	, sum(revenue) as revenue
+from vResultSet
+group by
+	    brand_name
+order by
+	  revenue desc
+```
+|brand_name|revenue|
+|---|---|
+|Trek|5129381.61|
+|Electra|1344143.79|
+|Surly|1063135.82|
+|Sun Bicycles|381919.69|
+|Haro|207096.69|
+|Heller|193798.71|
+|Pure Cycles|166164.00|
+|Ritchey|88498.82|
+|Strider|4849.75|
+
+<br>
+<br>
+
+5. Revenue per region?
 ```sql
 select
 	  city
@@ -262,79 +358,7 @@ order by
 <br>
 <br>
 
-2. Revenue per store?
-```sql
-select
-	  state
-	, store_name
-	, sum(revenue) as revenue
-from vResultSet
-group by
-	    state
-	  , store_name
-order by
-	  revenue desc
-```
-|state|store_name|revenue|
-|---|---|---|
-|NY|Baldwin Bikes|5826242.21|
-|CA|Santa Cruz Bikes|1790145.91|
-|TX|Rowlett Bikes|962600.76|
-
-<br>
-<br>
-
-3. Revenue per product category?
-```sql
-select
-	  category_name
-	, sum(revenue) as revenue
-from vResultSet
-group by
-	    category_name
-order by
-	  revenue desc
-```
-|category_name|revenue|
-|---|---|
-|Mountain Bikes|3030775.71|
-|Road Bikes|1852555.60|
-|Cruisers Bicycles|1109151.04|
-|Electric Bikes|1020236.85|
-|Cyclocross Bicycles|799874.60|
-|Comfort Bicycles|438506.87|
-|Children Bicycles|327888.21|
-
-<br>
-<br>
-
-4. Revenue per brand?
-```sql
-select
-	  brand_name
-	, sum(revenue) as revenue
-from vResultSet
-group by
-	    brand_name
-order by
-	  revenue desc
-```
-|brand_name|revenue|
-|---|---|
-|Trek|5129381.61|
-|Electra|1344143.79|
-|Surly|1063135.82|
-|Sun Bicycles|381919.69|
-|Haro|207096.69|
-|Heller|193798.71|
-|Pure Cycles|166164.00|
-|Ritchey|88498.82|
-|Strider|4849.75|
-
-<br>
-<br>
-
-5. A list of top customers?
+6. A list of top customers?
 ```sql
 select
 	  customers
@@ -1795,24 +1819,3 @@ order by
 
 <br>
 <br>
-
-6. A list of top sales rep?
-```sql
-select
-	  sales_rep
-	, sum(revenue) as revenue
-	, sum(total_units) total_units_sold
-from vResultSet
-group by
-	  sales_rep
-order by
-	  revenue desc
-```
-|sales_rep|revenue|total_units_sold|
-|---|---|---|
-|Marcelene Boyer|2938888.73|2419
-|Venita Daniel|2887353.48|2360
-|Genna Serrano|952722.26|831
-|Mireya Copeland|837423.65|685
-|Kali Vargas|516695.17|412
-|Layla Terrell|445905.59|371
