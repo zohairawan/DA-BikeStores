@@ -61,6 +61,9 @@ group by
 order by
 	  revenue desc
 ```
+<br>
+<br>
+
 2. Revenue per store?
 ```sql
 select
@@ -74,6 +77,9 @@ group by
 order by
 	  revenue desc
 ```
+<br>
+<br>
+
 3. Revenue per product category?
 ```sql
 select
@@ -85,6 +91,9 @@ group by
 order by
 	  revenue desc
 ```
+<br>
+<br>
+
 4. Revenue per brand?
 ```sql
 select
@@ -96,6 +105,9 @@ group by
 order by
 	  revenue desc
 ```
+<br>
+<br>
+
 5. A list of top customers?
 ```sql
 select
@@ -108,6 +120,8 @@ group by
 order by
 	  revenue desc
 ```
+<br>
+<br>
 
 6. A list of top sales rep?
 ```sql
