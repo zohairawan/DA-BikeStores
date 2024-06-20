@@ -18,7 +18,7 @@
 * Gain insights into the various trends happening in the sales volume over the 2016 - 2018 period
 
 ### Ask
-* By asking questions that are Specific, Measurable, Action-oriented, Relevant, and Time-bound we can answer the business task
+* By asking questions that are Specific, Measurable, Action-Oriented, Relevant, and Time-bound we can answer the business task
     * Revenue per region?
     * Revenue per store?
     * Revenue per product category?
@@ -44,4 +44,4 @@
 * Interpret the results to gain data-driven insights
 
 ### Share
-* Design comprehensive and dynamic dashboard to display required metrics
+* Data visualization for comprehensive and dynamic dashboard
