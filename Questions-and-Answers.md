@@ -1,4 +1,4 @@
-# Questions and Answers
+# Solve the Business Task
 
 0. Consolidate all the necessary data
 ```sql
