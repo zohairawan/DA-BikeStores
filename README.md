@@ -14,16 +14,16 @@
     * Share
 
 ### Business Task:
-* Condition of the sales activities within the company and gain insights into the various trends happening in the sales volume over the 2016 - 2018 period (time-bound)
-    * Revenue per region (specific and measurable)
-    * Revenue per store (specific and measurable)
-    * Revenue per product category (specific and measurable)
-    * Revenue per brand (specific and measurable)
-    * A list of top customers / sales rep
+* What are the conditions of the sales activities within the BikeStore company?
+* Gain insights into the various trends happening in the sales volume over the 2016 - 2018 period
 
 ### Ask
-* Define the business task
-    * By asking questions that are Specific, Measurable, Action-oriented, Relevant, and Time-bound we can determine the business task
+* By asking questions that are Specific, Measurable, Action-oriented, Relevant, and Time-bound we can answer the business task
+    * Revenue per region?
+    * Revenue per store?
+    * Revenue per product category?
+    * Revenue per brand?
+    * A list of top customers / sales rep?
 
 ### Prepare
 * Collect and gather the relevant data
