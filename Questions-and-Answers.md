@@ -2,7 +2,9 @@
 
 0. Consolidate all the necessary data
 ```sql
+use [BIKESTORES]
 go
+
 if exists(
 	select *
 	from INFORMATION_SCHEMA.VIEWS
@@ -11,7 +13,6 @@ if exists(
 drop view dbo.vResultSet
 go
 
-go
 create view dbo.vResultSet as
 	select
 		  ord.order_id
