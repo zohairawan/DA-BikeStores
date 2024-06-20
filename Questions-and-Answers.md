@@ -45,9 +45,8 @@ create view dbo.vResultSet as
 		, concat(sta.first_name, ' ', sta.last_name)
 go
 ```
-
-
-
+<br>
+<br>
 1. Revenue per region?
 ```sql
 select
