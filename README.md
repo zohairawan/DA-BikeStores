@@ -47,7 +47,7 @@
 
 ### Analyze
 * Analyze the data to solve the business task and gain data-driven insights
-[Solve the Business Task](Questions-and-Answers.md)
+* [Solve the Business Task](Questions-and-Answers.md)
 
 ### Share
 * Data visualization for comprehensive and dynamic dashboard
