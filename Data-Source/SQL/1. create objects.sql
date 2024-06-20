@@ -7,6 +7,10 @@ Link   : http://www.sqlservertutorial.net/load-sample-database/
 Version: 1.0
 --------------------------------------------------------------------
 */
+-- create database
+create database BIKESTORES
+go
+
 -- create schemas
 CREATE SCHEMA production;
 go
