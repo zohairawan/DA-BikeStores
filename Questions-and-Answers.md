@@ -320,6 +320,7 @@ order by
 	  revenue desc
 ```
 |brand_name|revenue|
+|---|---|---|
 |Trek|5129381.61|
 |Electra|1344143.79|
 |Surly|1063135.82|
@@ -346,6 +347,7 @@ order by
 	  revenue desc
 ```
 |customers|revenue|total_units_bought|
+|---|---|---|
 |Pamelia Newman|37801.84|18|
 |Abby Gamble|37500.89|11|
 |Sharyn Hopkins|37138.86|15|
@@ -1807,6 +1809,7 @@ order by
 	  revenue desc
 ```
 |sales_rep|revenue|total_units_sold|
+|---|---|---|
 |Marcelene Boyer|2938888.73|2419
 |Venita Daniel|2887353.48|2360
 |Genna Serrano|952722.26|831
