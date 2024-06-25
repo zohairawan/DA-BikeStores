@@ -12,6 +12,8 @@
     * Process
     * Analyze
     * Share
+* Data analysis using SQL and Excel
+* Dynamic Dashboards in Tableau and Excel
 
 ### Datasets
 * Both formats contain the same data, just pick whichever format you prefer to work in
@@ -53,7 +55,10 @@
 ### Share
 * Data visualization for comprehensive and dynamic dashboard
 * Excel
-    * ![Excel Dashboard](Excel-Viz/Dashboard.png)
-    * ![Excel KPI](Excel-Viz/KPI.png)
+    * ![Excel Dashboard](img/Dashboard.png)
+    * ![Excel KPI](img/KPI.png)
 * Tableau
-    * [Dashboard]()
+    * [Dashboard](https://public.tableau.com/app/profile/zohair.awan/viz/BikeStores_17193581764380/Dashboard)
+    * ![Tableau Dashoard 1](img/Tableau-Dashboard-1.png)
+    * ![Tableau Dashoard 2](img/Tableau-Dashboard-2.png)
+    * ![Tableau Dashoard 3](img/Tableau-Dashboard-3.png)
