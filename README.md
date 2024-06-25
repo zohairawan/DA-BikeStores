@@ -57,8 +57,11 @@
 * Excel
     * ![Excel Dashboard](img/Dashboard.png)
     * ![Excel KPI](img/KPI.png)
+
+---
+
 * Tableau
-    * [Dashboard](https://public.tableau.com/app/profile/zohair.awan/viz/BikeStores_17193581764380/Dashboard)
+    * [Dashboard - CLICK HERE](https://public.tableau.com/app/profile/zohair.awan/viz/BikeStores_17193581764380/Dashboard)
     * ![Tableau Dashoard 1](img/Tableau-Dashboard-1.png)
     * ![Tableau Dashoard 2](img/Tableau-Dashboard-2.png)
     * ![Tableau Dashoard 3](img/Tableau-Dashboard-3.png)
