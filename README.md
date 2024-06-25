@@ -1,11 +1,11 @@
 # BikeStores
 
-### Tools Used:
+### Tools
 * Excel
 * SQL Server / SQL Server Management Studio (SSMS)
 * Tableau
 
-### Skills Demonstrated:
+### Skills Demonstrated
 * Data Analysis Process:
     * Ask
     * Prepare
@@ -13,12 +13,12 @@
     * Analyze
     * Share
 
-### Datasets Used:
+### Datasets
 * Both formats contain the same data, just pick whichever format you prefer to work in
     * [CSV](Data-Source/CSV/) - Raw data
     * [SQL](Data-Source/SQL/) - Raw data
 
-### Business Task:
+### Business Task
 * What are the conditions of the sales activities within the BikeStore company?
 * Gain insights into the various trends happening in the sales volume over the 2016 - 2018 period
 
@@ -52,3 +52,8 @@
 
 ### Share
 * Data visualization for comprehensive and dynamic dashboard
+* Excel
+    * ![Excel Dashboard](Excel-Viz/Dashboard.png)
+    * ![Excel KPI](Excel-Viz/KPI.png)
+* Tableau
+    * [Dashboard]()
