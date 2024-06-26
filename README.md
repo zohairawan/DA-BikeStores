@@ -1,5 +1,9 @@
 # BikeStores
 
+![Dashboard](img/Dashboard.png)
+<br>
+<br>
+
 ### Tools
 * Excel
 * SQL Server / SQL Server Management Studio (SSMS)
