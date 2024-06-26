@@ -55,8 +55,8 @@
 ### Share
 * Data visualization for comprehensive and dynamic dashboard
 * Excel
-    * <img src = "img/Dashboard.png" width = "550" height = "400">
-    * <img src = "img/KPI.png" width = "550" height = "400">
+    * <img src = "img/Dashboard.png" width = "650" height = "400">
+    * <img src = "img/KPI.png" width = "650" height = "400">
 
 ---
 
@@ -65,6 +65,6 @@
     <br>
     <br>
     <br>
-    <img src = "img/Tableau-Dashboard-1.png" width = "550" height = "400">
-    <img src = "img/Tableau-Dashboard-2.png" width = "550" height = "400">
-    <img src = "img/Tableau-Dashboard-3.png" width = "550" height = "400">
+    <img src = "img/Tableau-Dashboard-1.png" width = "650" height = "400">
+    <img src = "img/Tableau-Dashboard-2.png" width = "650" height = "400">
+    <img src = "img/Tableau-Dashboard-3.png" width = "650" height = "400">
