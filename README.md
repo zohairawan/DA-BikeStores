@@ -69,4 +69,4 @@
 
 
 
-     <img src = "img/Tableau-Dashboard-1.png" width = "300" height = "300>
+     <img src = "img/Tableau-Dashboard-1.png" width = "300" height = "300">
