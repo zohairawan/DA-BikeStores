@@ -38,7 +38,7 @@
 * Validate data integrity
     * Data Source: First-party open data
 * Understand table relationships
-    * <img src = "img/Database-Diagram.png" width = "550" height = "400">
+    * <img src = "img/Database-Diagram.png" width = "650" height = "400">
 * Consolidate relevant data into one table
     * Combined data from 8 different tables
 
