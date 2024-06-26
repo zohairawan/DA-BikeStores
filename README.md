@@ -53,18 +53,18 @@
 * [Solve the Business Task](Questions-and-Answers.md)
 
 ### Share
-* Data visualization for comprehensive and dynamic dashboard
-* Excel
-    * <img src = "img/Dashboard.png" width = "650" height = "400">
-    * <img src = "img/KPI.png" width = "650" height = "400">
+* Data visualization with dynamic dashboard
+#### Excel - Dynamic Dashboard
+* <img src = "img/Dashboard.png" width = "650" height = "400">
+* <img src = "img/KPI.png" width = "650" height = "400">
 
 ---
 
-* Tableau
-    * [View Dashboard - CLICK HERE](https://public.tableau.com/app/profile/zohair.awan/viz/BikeStores_17193581764380/Dashboard)
-    <br>
-    <br>
-    <br>
-    <img src = "img/Tableau-Dashboard-1.png" width = "650" height = "400">
-    <img src = "img/Tableau-Dashboard-2.png" width = "650" height = "400">
-    <img src = "img/Tableau-Dashboard-3.png" width = "650" height = "400">
+#### Tableau - Dynamic Dashboard
+* [View Dashboard - CLICK HERE](https://public.tableau.com/app/profile/zohair.awan/viz/BikeStores_17193581764380/Dashboard)
+<br>
+<br>
+
+* <img src = "img/Tableau-Dashboard-1.png" width = "650" height = "400">
+* <img src = "img/Tableau-Dashboard-2.png" width = "650" height = "400">
+* <img src = "img/Tableau-Dashboard-3.png" width = "650" height = "400">
