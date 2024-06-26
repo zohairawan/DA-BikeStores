@@ -62,6 +62,6 @@
 
 * Tableau
     * [View Dashboard - CLICK HERE](https://public.tableau.com/app/profile/zohair.awan/viz/BikeStores_17193581764380/Dashboard)
-    * <img src = "img/Tableau-Dashboard-1.png" width = "450" height = "400">
-    * <img src = "img/Tableau-Dashboard-2.png" width = "450" height = "400">
-    * <img src = "img/Tableau-Dashboard-3.png" width = "450" height = "400">
+    * <img src = "img/Tableau-Dashboard-1.png" width = "550" height = "400">
+    <img src = "img/Tableau-Dashboard-2.png" width = "550" height = "400">
+    <img src = "img/Tableau-Dashboard-3.png" width = "550" height = "400">
