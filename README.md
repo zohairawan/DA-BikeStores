@@ -38,7 +38,7 @@
 * Validate data integrity
     * Data Source: First-party open data
 * Understand table relationships
-    * ![screenshot](img/Database-Diagram.png)
+    * <img src = "img/Database-Diagram.png" width = "550" height = "400">
 * Consolidate relevant data into one table
     * Combined data from 8 different tables
 
@@ -55,13 +55,16 @@
 ### Share
 * Data visualization for comprehensive and dynamic dashboard
 * Excel
-    * ![Excel Dashboard](img/Dashboard.png)
-    * ![Excel KPI](img/KPI.png)
+    * <img src = "img/Dashboard.png" width = "550" height = "400">
+    * <img src = "img/KPI.png" width = "550" height = "400">
 
 ---
 
 * Tableau
     * [View Dashboard - CLICK HERE](https://public.tableau.com/app/profile/zohair.awan/viz/BikeStores_17193581764380/Dashboard)
-    * <img src = "img/Tableau-Dashboard-1.png" width = "550" height = "400">
+    <br>
+    <br>
+    <br>
+    <img src = "img/Tableau-Dashboard-1.png" width = "550" height = "400">
     <img src = "img/Tableau-Dashboard-2.png" width = "550" height = "400">
     <img src = "img/Tableau-Dashboard-3.png" width = "550" height = "400">
