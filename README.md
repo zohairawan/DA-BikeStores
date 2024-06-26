@@ -5,6 +5,8 @@
 * SQL Server / SQL Server Management Studio (SSMS)
 * Tableau
 
+---
+
 ### Skills Demonstrated
 * Data Analysis Process:
     * Ask
@@ -15,14 +17,20 @@
 * Data analysis using SQL and Excel
 * Dynamic Dashboards in Tableau and Excel
 
+---
+
 ### Datasets
 * Both formats contain the same data, just pick whichever format you prefer to work in
     * [CSV](Data-Source/CSV/) - Raw data
     * [SQL](Data-Source/SQL/) - Raw data
 
+---
+
 ### Business Task
 * What are the conditions of the sales activities within the BikeStore company?
 * Gain insights into the various trends happening in the sales volume over the 2016 - 2018 period
+
+---
 
 ### Ask
 * By asking questions that are Specific, Measurable, Action-Oriented, Relevant, and Time-bound we can answer the business task
@@ -33,6 +41,8 @@
     * Revenue per region?
     * A list of top customers?
 
+---
+
 ### Prepare
 * Collect and gather the relevant data
 * Validate data integrity
@@ -42,18 +52,23 @@
 * Consolidate relevant data into one table
     * Combined data from 8 different tables
 
+---
+
 ### Process
 * Clean the data
     * Missing data
     * Erroneous values that may skew results
     * Duplicate data
 
+---
+
 ### Analyze
 * Analyze the data to solve the business task and gain data-driven insights
 * [Solve the Business Task](Questions-and-Answers.md)
 
+---
+
 ### Share
-* Data visualization with dynamic dashboard
 #### Excel - Dynamic Dashboard
 * <img src = "img/Dashboard.png" width = "650" height = "400">
 * <img src = "img/KPI.png" width = "650" height = "400">
