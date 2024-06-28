@@ -19,7 +19,7 @@
     * Analyze
     * Share
 * Data analysis using SQL and Excel
-* Dynamic Dashboards in Tableau and Excel
+* Interactive and dynamic Dashboards in Tableau and Excel
 
 ---
 
