@@ -18,6 +18,17 @@
 
 ---
 
+### Exploratory Data Analysis Questions
+* By asking questions that are Specific, Measurable, Action-Oriented, Relevant, and Time-bound we can answer the business task
+    * Revenue per store?
+    * A list of top sales rep?
+    * Revenue per product category?
+    * Revenue per brand?
+    * Revenue per region?
+    * A list of top customers?
+
+---
+
 ### Prepare
 * Collect and gather the relevant data
 * Validate data integrity
@@ -34,18 +45,12 @@ View SQL script [here](Solutions-SQL-Scripts/Consolidate-Data.sql)
 
 ---
 
-### Exploratory Data Analysis Questions
-* By asking questions that are Specific, Measurable, Action-Oriented, Relevant, and Time-bound we can answer the business task
-    * Revenue per store?
-    * A list of top sales rep?
-    * Revenue per product category?
-    * Revenue per brand?
-    * Revenue per region?
-    * A list of top customers?
+### Exploratory Data Analysis Answers Excel
 * <img src = "img/KPI.png" width = "650" height = "400">
+
 ---
 
-### Exploratory Data Analysis Answers
+### Exploratory Data Analysis Answers SQL
 View SQL script [here](Solutions-SQL-Scripts/Business-Task.sql)
 
 ---
