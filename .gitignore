@@ -3,3 +3,6 @@ Data-Source-Copy/*
 
 # Ignores Local Tableau Dashboard
 BikeStores.twb
+
+# Ignores source video for project
+Source.txt
