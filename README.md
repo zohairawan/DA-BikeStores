@@ -5,7 +5,7 @@
 <br>
 
 ### Project Overview
-* Gain insights into the various trends happening in the sales volume for the Bike Store company
+* Gain insights into the various trends happening in the sales volume for the Bike Store company by leveraging BI tools like SQL, Excel, and Tableau
 
 
 ### Datasets
