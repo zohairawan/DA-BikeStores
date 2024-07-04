@@ -23,7 +23,6 @@
 ## Share
 ### Excel - Interactive and Dynamic Dashboard
 * <img src = "img/Dashboard.png" width = "650" height = "400">
-* <img src = "img/KPI.png" width = "650" height = "400">
 
 ---
 
